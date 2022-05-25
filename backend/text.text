@@ -1,0 +1,24 @@
+bihc njerew el npm el zouz nhbtou 7aja ismha 
+coccurently 
+nejem nlsniw el zouz , ki bich ninstakih n3mlha fil back , guelik thez el path hedha w tbdil ely t7eb 3lih 
+tbdilou ma fih chey , n7otouh win el start w hekel start nrodoh dev 
+bich ylanseha el zouz m3a b3dhhom , ema ena fi ena blassa el bara mil client a7na tw , donc donc n7tou el dc bich nwriwh kifech nodkhlou lil client && el commande ley bich tkhdemha 
+
+l'etape 2 ***********//////////*******
+
+nmchiw lil dossier lcient package json w nzidou partie ely heya 
+el front lezm y3ref el back ykhdem m3ah 3ala ena prt ykhdem , lezm tkteb kilmet proxy , 
+t7ot http w lien el local ely back 
+1 concurrently , tmchi pckege json back , t7ot el commande b3ed client traka7 jawk 
+
+
+l'etape 3 ***********//////////*******
+tw nlansiw , npm run dev , ktibet start n7ot start , qw chneya sar ? 
+
+tw nodkhlou nkhdmou react 
+les packages ely lezmni n'instalehoùm , khalina netfhmou 
+bich n3mlou interface feha kif nav bar , 
+
+axios nb3thou bih des requettes http heka wela nn ? 
+
+    // "dev": "concurrently \"npx nodemon Server \" \"cd client && npm start \""
